@@ -1,0 +1,23 @@
+.content {
+    margin: 25px auto;
+}
+
+.content h1 {
+    text-align: center;
+}
+
+.content p {
+    text-align: justify;
+}
+
+.intakeForm {
+    text-align: center;
+}
+
+.btn {
+    margin: 20px;
+}
+
+.thumbnail {
+    max-width: 100%;
+}
