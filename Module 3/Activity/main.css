@@ -1,0 +1,31 @@
+.logo {
+    align-content: center;
+    text-align: center;
+}
+
+.logo img {
+    max-height: 100%;
+    min-height: 90%;
+    width: 100%;
+    margin-top: 2%;
+}
+
+.navigation {
+    margin-top: -30px;
+    text-align: center;
+}
+
+.navigation a {
+    color: #39663E;
+    font: arial;
+    font-weight: 500;
+}
+
+.navigation a:hover {
+    color: #77C67F;
+    text-decoration: none;
+}
+
+.content {
+    margin-top: 5%;
+}
