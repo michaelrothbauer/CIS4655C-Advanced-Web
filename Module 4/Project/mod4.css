@@ -1,0 +1,47 @@
+.logo {
+    align-content: center;
+    text-align: center;
+}
+
+.logo img {
+    max-height: 100%;
+    min-height: 90%;
+    width: 100%;
+    margin-top: 2%;
+}
+
+.navigation {
+    text-align: center;
+}
+
+.navigation a {
+    color: white;
+    font: arial;
+    font-weight: 500;
+}
+
+.home-label {
+    margin: 30px auto;
+    padding: 10px 15px 10px 15px;
+    background-color: #90C3D4;
+    border-radius: 10px;
+}
+
+.navigation a:hover {
+    color: gray;
+    text-decoration: none;
+}
+
+.content {
+    margin-top: 5%;
+}
+
+.card-bottom {
+    margin-bottom: 30px;
+}
+
+.reviews img {
+    height: 50px;
+    width: 50px;
+    margin: 0 10px 30px 0;
+}

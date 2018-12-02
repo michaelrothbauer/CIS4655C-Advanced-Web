@@ -1,0 +1,97 @@
+/*Content*/
+.content {
+    margin: 30px;
+    border: 1px solid black;
+    padding: 30px 0 30px 0;
+}
+
+.imgResponsive {
+    display: block;
+    margin: 0px auto;
+    max-width: 100%;
+}
+
+#welcome {
+    margin-top: 30px;
+}
+
+.info-box h2 {
+    text-align: center;
+    margin-top: 30%;
+}
+
+.formattedHead {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/*Thumbnails*/
+.thumbnail img {
+    display: block;
+    margin: 0px auto;
+    width: 100%;
+}
+
+.thumbnail {
+    text-align: center;
+    border: 1px solid black;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+.thumbnail h3 {
+    margin-top: 10px;
+}
+
+/*Form*/
+.contactForm {
+    margin-top: 10%;
+}
+
+.contactForm h2 {
+    text-align: center;
+}
+
+.comment {
+    resize: none;
+    width: 100%;
+}
+
+input {
+    width: 100%;
+}
+
+select {
+    width: 100%;
+}
+
+.btn {
+    margin-top: 15px;
+}
+/*Footer*/
+.footer {
+    padding: 30px;
+    height: 400px;
+}
+
+@media screen and (max-width: 574px) and (min-width: 300px){
+    .footer {
+        height: 700px;
+    }
+}
+
+.footer ul {
+    list-style: none;
+}
+
+.footer a {
+    color: white;
+}
+
+.review img {
+    max-height: 50px;
+    max-width: 50px;
+    height: 100%;
+    width: 100%;
+    margin: 10px;
+}
