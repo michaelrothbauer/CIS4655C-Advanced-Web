@@ -27,6 +27,18 @@
     border-radius: 10px;
 }
 
+@media screen and (max-width: 574px) and (min-width: 300px) {
+    .home-label {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 991px) and (min-width: 575px) {
+    .home-label {
+        font-size: 25px;
+    }
+}
+
 .navigation a:hover {
     color: gray;
     text-decoration: none;
